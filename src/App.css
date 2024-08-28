@@ -1,0 +1,26 @@
+.container{
+  margin: 70px;
+}
+.col-1 {
+  margin: 0px;
+  height: 100px;
+  width: 150px;
+}
+button{
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  background-color: none;
+  border: none;
+  font-size: 30px;
+}
+.black{
+  background-color: goldenrod;
+}
+.white{
+  background-color: rgb(229, 204, 143);
+}
+.black, .white{
+  text-align: center;
+  font-size: 40px;
+}
